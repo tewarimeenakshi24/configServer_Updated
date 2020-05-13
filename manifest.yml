@@ -1,0 +1,4 @@
+---
+  applications:
+  - name: config-server01
+    path: build/libs/configServer-0.0.1-SNAPSHOT.jar
